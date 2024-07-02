@@ -5,7 +5,7 @@
 ![Image](main.png?raw=true "image")
 
 ## Based on Van den Eijnden et al., MNRAS accepted.
-The full paper and its source files are included in this repository in the PAPER folder. 
+The full paper and its source files are included in this repository in the PAPER folder. It can also be accessed via ArXiv here: https://arxiv.org/abs/2407.00380
 
 This reproduction repository contains the following folders:
 
