@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/821244259.svg)](https://zenodo.org/doi/10.5281/zenodo.12622045)
+
 # Analysis reproduction repository for "Particle acceleration at the bow shock of runaway star LS 2355: non-thermal radio emission but no gamma-ray counterpart"
 
 ![Image](main.png?raw=true "image")
